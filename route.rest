@@ -1,0 +1,14 @@
+GET http://localhost:5000/
+
+###
+
+GET http://localhost:5000/students
+
+###
+GET http://localhost:5000/student/62147b95bbbae00a24813af7
+
+###
+GET http://localhost:5000/courses
+
+###
+GET http://localhost:5000/students/COMP308
